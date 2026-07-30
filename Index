@@ -158,7 +158,8 @@
     padding: 14px 20px;
     display: flex;
     align-items: center;
-    gap: 12px;
+    flex-wrap: wrap;
+    gap: 8px 12px;
     flex-shrink: 0;
   }
   .avatar {
